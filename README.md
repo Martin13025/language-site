@@ -9,4 +9,6 @@ Added:
 
 Powered by Martin13025
 
+For about projects text me to my tg: https://t.me/LuciusNumerius.
+
 v1.0.1
