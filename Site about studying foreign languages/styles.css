@@ -1,0 +1,99 @@
+@font-face {
+    font-family: a_DomIno;
+    src: url(./fonts/ofont.ru_a_DomIno.ttf);
+}
+.body {
+    background-color: rgb(142, 195, 255);
+    display:contents; 
+    margin: 0 auto;
+}
+.container {
+    position: relative;
+    top: 0%;
+    text-align: center;
+    height: 0%;
+    left: 0%;
+    
+    display:block; 
+    margin: auto;
+}
+.headtitle {
+    font-family: a_Domino;
+    font-size: 230%;
+    position:absolute;
+    width: 50%;
+    height: 0%;
+    color: rgb(0, 0, 0);
+    top: 2%;
+    left: 25%;
+}
+.container2 {
+    background-image: url(./images/4860913.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: block;
+    margin: 0 auto;
+    width: auto;
+}
+ul {
+    border-radius: 15px;
+    font-family: a_Domino;
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    top: 0%;
+    height: 0%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.container3 {
+    background-image: url(./images/1613504188_61-p-fon-dlya-prezentatsii-inostrannie-yaziki-78.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 15px;
+    font-family: a_Domino;
+    font-size: 200%;
+    top: 0%;
+    height: 0%;
+    text-align: center;
+    left: 0%;
+    display: block; 
+    margin: 0 auto;
+}
+.container4 {
+    background-color: black;
+    border-radius: 15px;
+    font-family: a_Domino;
+    font-size: 200%;
+    top: 0%;
+    height: 0%;
+    text-align: center;
+    left: 0%;
+    display:block; 
+    margin: 0 auto;
+}
+.icon {
+    border-radius: 32%;
+    position: relative;
+    display:block; 
+    margin:0 auto;
+}
+.text1 {
+    background-color: rgba(255, 255, 255, 0.562);
+    border-radius: 15px;
+    display:block; 
+    margin:0 auto;
+}
+.text2 {
+    background-color: rgba(255, 255, 255, 0.562);
+    border-radius: 15px;
+}
+.text3 {
+    background-color: rgba(255, 255, 255, 0.562);
+    border-radius: 15px;
+}
+@media screen and (min-width: 320px) and (max-width: 2560px) {
+    .body {
+        min-width: 319px;
+        max-width: 2559px;
+    }
+}
