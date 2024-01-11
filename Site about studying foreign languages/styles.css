@@ -4,6 +4,8 @@
 }
 .body {
     background-color: rgb(142, 195, 255);
+    display:contents; 
+    margin: 0 auto;
 }
 .container {
     position: relative;
@@ -11,8 +13,9 @@
     text-align: center;
     height: 0%;
     left: 0%;
-    min-width: 320px;
-    max-width: 2560px;
+    
+    display:block; 
+    margin: auto;
 }
 .headtitle {
     font-family: a_Domino;
@@ -28,6 +31,11 @@
     background-image: url(./images/4860913.png);
     background-repeat: no-repeat;
     background-size:cover;
+    display: block;
+    margin: 0 auto;
+    width: auto;
+}
+ul {
     border-radius: 15px;
     font-family: a_Domino;
     color: rgb(0, 0, 0);
@@ -35,9 +43,7 @@
     top: 0%;
     height: 0%;
     text-align: center;
-    left: 0%;
-    min-width: 320px;
-    max-width: 2560px;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 .container3 {
     background-image: url(./images/1613504188_61-p-fon-dlya-prezentatsii-inostrannie-yaziki-78.jpg);
@@ -50,8 +56,8 @@
     height: 0%;
     text-align: center;
     left: 0%;
-    min-width: 320px;
-    max-width: 2560px;
+    display: block; 
+    margin: 0 auto;
 }
 .container4 {
     background-color: black;
@@ -62,18 +68,20 @@
     height: 0%;
     text-align: center;
     left: 0%;
-    min-width: 320px;
-    max-width: 2560px;
+    display:block; 
+    margin: 0 auto;
 }
 .icon {
     border-radius: 32%;
     position: relative;
-    width: 150px;
-    height: 150px;
+    display:block; 
+    margin:0 auto;
 }
 .text1 {
     background-color: rgba(255, 255, 255, 0.562);
     border-radius: 15px;
+    display:block; 
+    margin:0 auto;
 }
 .text2 {
     background-color: rgba(255, 255, 255, 0.562);
