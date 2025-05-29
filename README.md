@@ -9,6 +9,6 @@ Added:
 
 Powered by Martin13025
 
-For about projects text me to my tg: https://t.me/LuciusNumerius.
+For about projects text me to my tg: [https://t.me/LuciusNumerius](https://t.me/M2rR4b4t).
 
 v1.0.1
